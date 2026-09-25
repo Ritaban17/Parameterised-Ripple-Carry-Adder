@@ -76,6 +76,13 @@ To create an $N$-bit parameterized RCA, $N$ Full Adders are linked together. The
 
 Contributions, issues, and feature requests are welcome! Check the [issues page](https://github.com/Ritaban17/Ripple-Carry-Adder--Parameretised-/issues) to get involved.
 
+## 👤 Author
+
+* **Ritaban Pal**  
+* B.Tech Electrical Engineering | VLSI & RTL Design Enthusiast
+
+---
+
 ## 📄 License
 
 This project is open-source and available under the MIT License.
